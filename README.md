@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+This project defines the basic sentiment analysis of tweets or any other data. It works by defining the positive and negative score of a tweet based on the dataset. On the basis of this a net score is generated, which determines if the tweet has a positive or negative sentiment. This can be further improved by implementing Natural Language Processing algorithms to analyse the data by their semantic meaning and even the sarcastic tone of the tweet.
